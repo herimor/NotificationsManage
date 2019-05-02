@@ -1,2 +1,4 @@
 *.js linguist-vendored
 *.ps1 linguist-vendored
+*.psm1 linguist-vendored
+*.psd1 linguist-vendored
