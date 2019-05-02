@@ -1,0 +1,14 @@
+C:\GIT\eNotification\eNotification\bin\Debug\eNotification.dll.config
+C:\GIT\eNotification\eNotification\bin\Debug\eNotification.dll
+C:\GIT\eNotification\eNotification\bin\Debug\eNotification.pdb
+C:\GIT\eNotification\eNotification\bin\Debug\EntityFramework.dll
+C:\GIT\eNotification\eNotification\bin\Debug\EntityFramework.SqlServer.dll
+C:\GIT\eNotification\eNotification\bin\Debug\System.Data.SQLite.dll
+C:\GIT\eNotification\eNotification\bin\Debug\System.Data.SQLite.EF6.dll
+C:\GIT\eNotification\eNotification\bin\Debug\System.Data.SQLite.Linq.dll
+C:\GIT\eNotification\eNotification\bin\Debug\EntityFramework.xml
+C:\GIT\eNotification\eNotification\bin\Debug\EntityFramework.SqlServer.xml
+C:\GIT\eNotification\eNotification\bin\Debug\System.Data.SQLite.xml
+C:\GIT\eNotification\eNotification\bin\Debug\System.Data.SQLite.dll.config
+C:\GIT\eNotification\eNotification\obj\Debug\eNotification.dll
+C:\GIT\eNotification\eNotification\obj\Debug\eNotification.pdb
